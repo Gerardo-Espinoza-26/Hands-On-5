@@ -1,3 +1,14 @@
+/*
+
+    Alumno: Gerardo Espinoza Sanchez
+    Profesor: José Antonio Aviña Méndez
+    Clase: Simulation
+    Hands-On 5
+    Tecnologico Superior De Zapopan
+    Fecha: 30 / 09 / 21
+
+*/
+
 package agente;
 
 import jade.core.Agent;
